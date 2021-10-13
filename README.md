@@ -1,2 +1,3 @@
 # daily-git
-daily records
+daily records by issues
+
